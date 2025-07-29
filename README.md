@@ -1,4 +1,4 @@
-# Tamagotchi React + Bootstrap
+# Tamagotchi React 
 
 Una página web interactiva tipo Tamagotchi creada con React y Vite, utilizando Bootstrap para el diseño y estilos.  
 La interfaz está diseñada con una estética inspirada en la clásica GameBoy con voz, para darle un toque nostálgico y divertido.
