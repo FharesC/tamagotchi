@@ -1,0 +1,51 @@
+.image{
+    min-width: 20rem;
+    max-width: 20rem;
+    min-height: 20rem;
+    max-height: 20rem;
+}
+
+.img{
+    width: 28rem;
+}
+
+.black{
+    background-color: black;
+}
+
+.fondo {
+    background-image: url("https://img.freepik.com/vector-gratis/interior-dormitorio-atico-ninos_107791-25388.jpg?semt=ais_hybrid&w=740");
+}
+
+.fondoded{
+    background-image: url("https://img.freepik.com/vector-gratis/paisaje-dia-cementerio_107791-342.jpg?semt=ais_items_boosted&w=740");
+}
+
+.w-40{
+    width: 40%;
+}
+
+.boton{
+    width: 4rem;
+    height: 4rem;
+}
+
+.start-17{
+    left: 17%;
+}
+
+.fs-7{
+    font-size: 11rem;
+    margin-right: 6rem;
+}
+
+.ovalo{
+    width: 13%;
+    height: 1.5rem;
+    border-radius: 80px;
+    rotate: 300deg;
+    font-size: 0.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
