@@ -1,12 +1,28 @@
-# React + Vite
+# Tamagotchi React + Bootstrap
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Una página web interactiva tipo Tamagotchi creada con React y Vite, utilizando Bootstrap para el diseño y estilos.  
+La interfaz está diseñada con una estética inspirada en la clásica GameBoy con voz, para darle un toque nostálgico y divertido.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologías
 
-## Expanding the ESLint configuration
+- React 18+
+- Vite 
+- Bootstrap 5 
+- Hooks de React para manejar el estado
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Características
+
+- Interfaz con diseño inspirado en la GameBoy clásico
+- Diseño responsive y estilizado con Bootstrap
+- Estados del Tamagotchi (hambre, felicidad, energía)
+- Botones para alimentar, jugar y dormir con la mascota
+- Cambios visuales dinámicos basados en el estado del Tamagotchi
+- Posible persistencia de estado usando localStorage (si lo implementaste)
+
+---
+
+<img width="902" height="905" alt="image" src="https://github.com/user-attachments/assets/a24b1047-0e6b-4bce-9200-e6d5bc4bbf03" />
